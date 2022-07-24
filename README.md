@@ -7,11 +7,11 @@
 ## Step 2: install packages
 * run script: `yarn`
 
-## Step 2: Starting
+## Step 3: Starting
 * Move to project folder
 * run script: `yarn start`
 
-## Step 3: Testing using the Postman
+## Step 4: Testing using the Postman
 * User register API: ![title](image_for_readme/register.PNG) .
 * Login API: ![title](image_for_readme/login.PNG) .
 * Set Authorization: ![title](image_for_readme/header.PNG) .
